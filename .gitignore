@@ -61,3 +61,6 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.sln
+juego_fila_4/juego_fila_4-csharp.sln
+juego_fila_4/juego_fila_4.sln
